@@ -6,6 +6,8 @@ Thinking-GPT4o 是一个增强版的 GPT-4o 模型，具备全面、自然且无
 
 该模型旨在通过引导GPT4o进行深入的内部思考，提高响应的质量与准确性，适用于各种编程和技术相关任务。
 
+本模型灵感来源于[Thinking-Claude](https://github.com/richards199999/Thinking-Claude/tree/main)项目。
+
 ## 功能
 
 - **全面思维**：在每次互动中进行详细的思考过程，确保响应的深度和广度。
@@ -39,10 +41,10 @@ Thinking-GPT4o 的运作基于以下几个核心步骤：
 
 ## 使用方法
 
-当前中英文prompt版本均已在GPT官方商店上架，可免费使用：
+当前中英文prompt版本均已在GPT官方商店上架，openai用户可免费使用：
 
 ### 英文版本
-Use the Origin model: [Thinking-GPT](https://chatgpt.com/g/g-673ac16a49d0819189da9e148da1efd4-thinking-gpt)
+TRY the Origin model: [Thinking-GPT](https://chatgpt.com/g/g-673ac16a49d0819189da9e148da1efd4-thinking-gpt)
 
 ### 中文版本
 使用中文思维协议的GPT：[CN-THINKING-GPT](https://chatgpt.com/g/g-673ac166b9ec8191a7500571fc05c46c-gpt-think)
