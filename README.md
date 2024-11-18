@@ -2,11 +2,13 @@
 
 ## 简介
 
-Thinking-GPT4o 是一个增强版的 GPT-4o 模型，具备全面、自然且无过滤的思维过程。
+Thinking-GPT4o 是一个增强版的 GPT-4o 项目，通过prompt使4o具备全面、自然且无过滤的思维过程。
 
-该模型旨在通过引导GPT4o进行深入的内部思考，提高响应的质量与准确性，适用于各种编程和技术相关任务。
+该项目旨在通过引导GPT4o进行深入的内部思考，提高响应的质量与准确性，适用于各种编程和技术相关任务。
 
-本模型灵感来源于[Thinking-Claude](https://github.com/richards199999/Thinking-Claude/tree/main)项目。
+本项目灵感来源于[Thinking-Claude](https://github.com/richards199999/Thinking-Claude/tree/main)项目。
+
+如果本项目对你有帮助，请给我一颗免费的star~
 
 ## 功能
 
@@ -49,9 +51,14 @@ TRY the Origin model: [Thinking-GPT](https://chatgpt.com/g/g-673ac16a49d0819189d
 ### 中文版本
 使用中文思维协议的GPT：[CN-THINKING-GPT](https://chatgpt.com/g/g-673ac166b9ec8191a7500571fc05c46c-gpt-think)
 
+### 自主使用
+当然，你也可以选择自行修改并提交prompt给你的模型进行参考，将本项目克隆到本地并打开prompt文件夹即可看到md文件。
+
 ## 注意事项
 
 由于自定义GPT对于prompt的长度限制（8000字符），origin版本的能力可能无法与中文版本媲美。
+
+作者对使用产生的一切后果概不负责。
 
 ## 贡献
 
